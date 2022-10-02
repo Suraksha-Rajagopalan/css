@@ -1,0 +1,34 @@
+body {
+    background-color: powderblue;
+    border: 5px double black;
+    margin: 3em;
+    padding: 2em;
+}
+
+h1{
+    background-image: url("trial.png");
+    font-size: 70px;
+    text-transform: capitalize;
+}
+
+h3{
+    font-size: 20px;
+    color: black
+}
+
+h2{
+    font-size: 40px;
+    color: black
+}
+
+#first {
+    color:blue
+}
+
+#second {
+    background-color: slateblue;
+}
+
+#third {
+    background-color:cadetblue
+}
